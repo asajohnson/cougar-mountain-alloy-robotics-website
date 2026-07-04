@@ -1,5 +1,7 @@
 # Cougar Mountain Alloy Robotics Website
 
+![Cougar Mountain Middle School Falcon Mascot Logo](/assets/images/cougar-mountain-alloy-robotics-logo.png)
+
 This is the website for Cougar Mountain Alloy Robotics - an alliance of FIRST Robotics teams based at Cougar Mountain Middle School in Washington State. It is designed to introduce our teams, celebrate student accomplishments, recognize sponsors, share photos, and make it easy for families, students, sponsors, and community members to connect with the program. 
 
 Students work together to research problems, design innovative solutions, build and program LEGO robots, and compete in robotics challenges. Through FIRST Robotics, students develop skills in:
